@@ -1,1 +1,2 @@
-# DPHA
+# Code will be updated soon...
+This is the repo of the manuscript "Dual-Path Hybrid Attention Network for Monaural Speech Separation". The code will be released after the manuscript submission.
